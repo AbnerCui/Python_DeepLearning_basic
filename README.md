@@ -1,2 +1,2 @@
-# Python-
-深度学习入门：基于Python
+# 基于Python的深度学习入门
+
